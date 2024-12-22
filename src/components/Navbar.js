@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://medium.com/me/stories/public"
+                href="https://medium.com/@sushantkumar19990819"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -104,7 +104,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/SushantKumar1999/Portfolio"
+                href="https://github.com/SushantKumar1999/Sushant-Portfolio"
                 target="_blank"
                 className="fork-btn-inner"
               >
